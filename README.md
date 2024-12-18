@@ -1,7 +1,7 @@
 -> **I just put some interesting stuff here.**\
 -> **enjoy**
 
--> **Check out my selfhosted gitea** 
+-> **Check out my selfhosted gitea**\
 <a href="https://git.pupes.org">
 <img src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425">
 </a>

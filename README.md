@@ -7,3 +7,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS logo" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="JS logo" width="50" height="50">
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoliEcho)](https://github.com/anuraghazra/github-readme-stats)

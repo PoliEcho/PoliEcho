@@ -8,6 +8,7 @@
 
 <div style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50" style="display: inline;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin logo" width="50" height="50" style="display: inline;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua logo" width="50" height="50" style="display: inline;">
     <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash logo" width="50" height="50" style="display: inline;">
 </div>
